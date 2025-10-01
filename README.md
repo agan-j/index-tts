@@ -16,7 +16,7 @@
 - 集成 F5、GPT、Cosy、Open、Index 等主流模型  
 - 支持：**14 种语言**（中、英、日、韩、泰、法、德、俄、西、葡、印尼、越南、阿拉伯、菲律宾）  
 - 特点：国际顶尖的 **免费声音克隆技术**  
-- 下载地址：[点这里下载](https://modelscope.cn/models/bobo0218bo/IndexTTS/resolve/master/niutts_v1.2.rar)
+- 下载地址：[点这里下载](https://modelscope.cn/models/bobo0218bo/IndexTTS/resolve/master/niutts_v1.3.rar)
 
 ---
 
